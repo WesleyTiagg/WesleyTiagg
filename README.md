@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h1>💡Olá sou Wesley!<h1/>
+
 <p align="left"> 
 Estudante de Análise e Desenvolvimento de Sistemas (graduação em andamento). Aprendendo e crescendo no mundo da tecnologia, interessado em Inteligência Artificial e Desenvolvimento Web.
 </p>
