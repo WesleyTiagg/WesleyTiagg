@@ -3,7 +3,7 @@
 <h2>💡Olá sou Wesley!</h2>
 
 <p align="left"> 
-Estudante de Análise e Desenvolvimento de Sistemas (graduação em andamento). Aprendendo e crescendo no mundo da tecnologia, interessado em Inteligência Artificial e Desenvolvimento Web.
+Estudante de Análise e Desenvolvimento de Sistemas. Aprendendo e crescendo no mundo da tecnologia, interessado em Inteligência Artificial e Desenvolvimento Web.
 </p>
 
 <p align="left">
