@@ -15,14 +15,12 @@ Estudante de Análise e Desenvolvimento de Sistemas. Aprendendo e crescendo no m
 </p>
 
 <p align="left">
-  💌 Gosto de trabalhar em equipe e colaborar em projetos, entre em contato comigo: ⤵️
+  💌 Gosto de trabalhar em equipe e colaborar em projetos, entre em contato comigo:
 </p>
 
 <p align="left">
   <a href="mailto:wesleyt584@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="linkedin.com/in/wesley-tiago-6b2728302" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
