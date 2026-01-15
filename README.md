@@ -1,18 +1,6 @@
-<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=34C2A4&section=header&reversal=false&textBg=false&fontSize=-2">
-<br>
-<br>
-<br>
-
 <div align="center">
 </div>
-
 <div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Wesley Tiago</b>
-  </samp>
 <br>
   <img 
         src="https://i.imgur.com/7RZQAe1.png" 
@@ -20,17 +8,23 @@
         alt="BMO GIF"
       />
 <br>
-<br>
+<b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Wesley Tiago</b>
+  </samp>
 </div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=PixelifySans&color=95F5F0FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
-
-</div>
-      
-<br>
-<br>
-      
+</div>     
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=34C2A4&section=header&reversal=false&textBg=false&fontSize=-2">  
 <div align="center">
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyTiagg&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyTiagg&theme=nord_dark&utcOffset=8) |
@@ -52,8 +46,8 @@
     </td>
   </tr>
 </table>
-<br>
-<br>
+<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=34C2A4&section=footer&reversal=false&textBg=false&fontSize=-2">
+</details>
 <br>
 <div align="center">
   <i>“Learning by building. Improving by failing. Growing by consistency.”</i>
@@ -61,4 +55,3 @@
 <br>
 <br>
 <br>
-<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=34C2A4&section=footer&reversal=false&textBg=false&fontSize=-2">
