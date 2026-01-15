@@ -51,8 +51,12 @@
     </td>
   </tr>
 </table>
-
-
+<br>
+<br>
+<br>
+<div align="center">
+  <i>“Learning by building. Improving by failing. Growing by consistency.”</i>
+</div>
 <br>
 <br>
 <br>
