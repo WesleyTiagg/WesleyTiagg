@@ -13,6 +13,14 @@
       <br>
       Hi there! I'm <b>Wesley Tiago</b>
   </samp>
+<br>
+  <img 
+        src="https://i.imgur.com/7RZQAe1.png" 
+        width="300px"
+        alt="BMO GIF"
+      />
+<br>
+<br>
 </div>
 
 <div align="center" width="100%">
@@ -34,13 +42,6 @@
 
 <table align="center" border= "0">
   <tr>
-    <td align="center" width="40%">
-      <img 
-        src="https://i.imgur.com/7RZQAe1.png" 
-        width="450px"
-        alt="BMO GIF"
-      />
-    </td>
     <td align="center" width="70%">
       <code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
