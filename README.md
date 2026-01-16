@@ -40,6 +40,16 @@
     <img src="https://skillicons.dev/icons?i=js,ts,vscode,nodejs,py,postgres,figma,css,html" />
   </a>
 </p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleyTiagg/WesleyTiagg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleyTiagg/WesleyTiagg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WesleyTiagg/WesleyTiagg/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<br>
+<br>
+<br>
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&height=110&color=34C2A4&section=footer&reversal=false&textBg=false&fontSize=-2">
 </details>
 <br>
